@@ -1,0 +1,1 @@
+{"ecs_user_library":{"mappings":{"properties":{"last_logged_in":{"type":"date"},"name":{"type":"text","fields":{"keyword":{"type":"keyword","ignore_above":256}}}}}}}
